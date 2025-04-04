@@ -42,6 +42,7 @@ public class BasiCalculator {
                 System.out.println("Error: Invalid operator. Please use +, -, *, or /.");
                 break;
         }
+        System.out.println("I have performed arithemetic operations");
 
         scanner.close();
     }
